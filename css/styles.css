@@ -1,0 +1,36 @@
+
+header  {
+	margin-top: 15px;
+}
+header  h1{
+	color: white;
+	font-size: 20px;
+}
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+body {
+	background-color:black;
+}
+section {
+	margin-bottom: 10px;
+	
+	font-family: sans-serif;
+}
+h1 {
+	text-align: center;
+	color: red;
+	font-size: 15px;
+}
+p {
+	color: white;
+	font-size: 15px;
+}
+#sec1 {
+	margin-top: 30px;
+}
+.row {
+	display: flex;
+	}
